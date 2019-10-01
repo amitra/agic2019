@@ -1,2 +1,2 @@
 # agic2019
-Agic 2019 code files
+Agic 2019 files for WebappBuilder Workshop
